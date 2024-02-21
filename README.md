@@ -1,4 +1,4 @@
-![logo](https://github.com/prajwalsoni/prajwalsoni/blob/main/Black%20and%20Yellow%20Modern%20Graduation%20Banner%20Landscape_20240221_111801_0000.png)
+![logo](https://github.com/prajwalsoni/prajwalsoni/blob/main/WhatsApp%20Image%202024-02-21%20at%2012.10.52.jpeg)
 <h1 align="center">Hi 👋, I'm Prajwal Soni</h1>
 <h3 align="center">Full Stack Java Cloud Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
