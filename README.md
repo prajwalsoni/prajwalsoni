@@ -1,6 +1,6 @@
 ![logo](https://github.com/prajwalsoni/prajwalsoni/blob/main/Black%20and%20Yellow%20Modern%20Graduation%20Banner%20Landscape_20240221_125207_0000.png)
 <h1 align="center"><i>Hi 👋, I'm Prajwal Soni</i></h1>
-<h3 align="center"><i>Full Stack Java Cloud Developer from India</i></h3>
+<h3 align="center"><i>Java Full Stack Developer from India</i></h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalsoni&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalsoni" /> </p>
 
