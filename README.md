@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **prajwalsonics@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Jy4N02rCsrOEwqYu_qzZLlku4unPdqh-/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1G1YMJxczYSBK2ban4Exld6rgLx3CeZm2/view?usp=drive_link)
 
 - ⚡ Fun fact **I am an ambivert person.**
 
